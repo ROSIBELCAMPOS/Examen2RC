@@ -6,9 +6,10 @@
 .Header{
     position: fixed;
     top: 10px;
-    left: 40px;
+    left: 5px;
     width: 100%;
-    padding: 10px 20%;
+    height: 30%;
+    padding: 2px 2%;
     background: transparent;
     display: flex;
     justify-content: flex-end;
@@ -17,19 +18,18 @@
 }
 
 .navbar{
-    display: flex;
     position: fixed;
-    
+    margin-top: 5px;  
 }
 
 .navbar a{ 
     position: relative;
     font-size: 18px;
     color: #cc7722;
-    font-weight: 500;
+    font-weight: 400;
     margin-left: 40px;
     top: 0px;
-    padding: 20px;
+    padding: 10px;
 }
 
 .navbar a::before{
@@ -53,16 +53,17 @@
 }
 
 .img{
+    width: 80px;
+    height: 80px;
     font-size: 32px;
     color: #333;
     font-weight: 700;
     float: left;
     border-radius: 60%;
-    width: 125px;
-    height: 125px;
     shape-image-threshold: initial;
-    clip-path: circle(200px at 60px 50%);
+    clip-path: circle(150px at 60px 50%);
     filter: drop-shadow(5px 5px 10px black);
+   
 }
 
 .body{
@@ -97,6 +98,7 @@
 }
 
 .parrafo{
+    margin-top: 60px;
     text-align: left;
     width: 50%;
     font-family: Arial, Helvetica, sans-serif;
@@ -106,7 +108,7 @@
 
 .car2{
     margin-left: 80px;
-    margin-top: 50px;
+    margin-top: 100px;
     text-align: right;
     width: 50%;
 }

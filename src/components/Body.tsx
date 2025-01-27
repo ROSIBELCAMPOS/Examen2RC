@@ -6,15 +6,14 @@ function Body() {
         <body>
             <div className='body'>
               <div className="parrafo"> 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                   Vestibulum bibendum, massa vitae volutpat accumsan, ligula orci 
-                   feugiat ipsum, id bibendum tellus erat vitae massa. In hac habitasse 
-                   platea dictumst. Proin suscipit mi enim, a commodo eros rutrum nec. 
-                   Fusce a libero dictum, porta est sit amet, suscipit augue. Integer malesuada nunc eu purus 
-                   egestas eleifend. Cras lorem ipsum, placerat vitae enim nec, sagittis tincidunt nulla. Vestibulum eget 
-                   ipsum eu leo varius egestas eu sit amet quam. Nunc rhoncus luctus est eu vulputate. Vestibulum ante ipsum primis in faucibus orci luctus et 
-                   ultrices posuere cubilia curae; Pellentesque ac orci bibendum, semper sem non, interdum neque. Nam et nibh at nibh semper dignissim. 
-                   Duis ipsum urna, congue eget pharetra nec, commodo nec eros. Nam fringilla ornare erat, et eleifend lorem venenatis sed.
+                <p>Empresa fundada en 1985 bajo el concepto de exclusividad y estilo es igual
+                  a rendimiento y potencia. contamos con ingerieros y personal capacitado
+                  bajo las más altos estandares, para brindar acabados de calidad, atencion 
+                  meticulosa y materiales/servicios excepcionales.
+                  Nuestros autos ofrecen motores con una aceleracion impresionante, 
+                  tecnologia de vanguardia y sistemas avanzados que garantizan una conducción
+                  suave en cualquier terreno.
+                  Un auto no es solo para el transporte es una eperiencia que simboliza eito y sofisticación.
                 </p>
               </div>
               <div className="car2"> 
